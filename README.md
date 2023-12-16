@@ -1,0 +1,1 @@
+The code calculates daily average temperature for historical ERA5 dataset (considered observed), EARTh3-CC SSP585 WBGT for historical and future simulation period. The bias-correction is performed and the no of days in a year, for any desired location will be facing in future at a given threshold (35 deg C) is estimated.
